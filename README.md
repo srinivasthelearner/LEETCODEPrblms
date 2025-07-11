@@ -5,3 +5,4 @@ I will Solve LeetCodes Problems Daily So Feel free to use my Code
 | 9 | Palindrome Number | [Python](PalindromeNumber.py) | [LeetCode](https://leetcode.com/problems/palindrome-number/) |
 | 1   | Two Sum      | [Python](TwoSum.py) | [LeetCode](https://leetcode.com/problems/two-sum/) |
 | 13              | Roman to Integer | [Python](roman_to_integer.py) | [LeetCode](https://leetcode.com/problems/roman-to-integer/) |
+| 2               | Add Two Numbers   | [Python](add_two_numbers.py) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) |
