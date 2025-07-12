@@ -6,3 +6,4 @@ I will Solve LeetCodes Problems Daily So Feel free to use my Code
 | 1   | Two Sum      | [Python](TwoSum.py) | [LeetCode](https://leetcode.com/problems/two-sum/) |
 | 13              | Roman to Integer | [Python](roman_to_integer.py) | [LeetCode](https://leetcode.com/problems/roman-to-integer/) |
 | 2               | Add Two Numbers   | [Python](add_two_numbers.py) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) |
+| 14              | Longest Common Prefix | [Python](longest_common_prefix.py) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) |
