@@ -8,3 +8,4 @@ I will Solve LeetCodes Problems Daily So Feel free to use my Code
 | 2               | Add Two Numbers   | [Python](AddTwoNumbers.py) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) |
 | 14              | Longest Common Prefix | [Python](LongestcommonPrefix.py) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) |
 | 21              | Merge Two Sorted Lists | [Python](MergeTwoSoertedLists.py) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| 7               | Reverse Integer         | [Python](reverse_integer.py) | [LeetCode](https://leetcode.com/problems/reverse-integer/) |
