@@ -10,3 +10,4 @@ I will Solve LeetCodes Problems Daily So Feel free to use my Code
 | 21              | Merge Two Sorted Lists | [Python](MergeTwoSoertedLists.py) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | 7               | Reverse Integer         | [Python](reverse_integer.py) | [LeetCode](https://leetcode.com/problems/reverse-integer/) |
 | 189             | Rotate Array            | [Python](rotateArray.py)    | [LeetCode](https://leetcode.com/problems/rotate-array/)     |
+| 121             | Best Time to Buy and Sell Stock | [Python](max_profit.py)     | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
