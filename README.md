@@ -11,3 +11,4 @@ I will Solve LeetCodes Problems Daily So Feel free to use my Code
 | 7               | Reverse Integer         | [Python](reverse_integer.py) | [LeetCode](https://leetcode.com/problems/reverse-integer/) |
 | 189             | Rotate Array            | [Python](rotateArray.py)    | [LeetCode](https://leetcode.com/problems/rotate-array/)     |
 | 121             | Best Time to Buy and Sell Stock | [Python](max_profit.py)     | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 28              | Find the Index of the First Occurrence in a String | [Python](str_index.py)        | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
