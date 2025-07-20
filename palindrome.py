@@ -1,6 +1,8 @@
 """
 LeetCode Problem: 125. Valid Palindrome  
 LeetCode Link: https://leetcode.com/problems/valid-palindrome/
+using python
+
 
 Approach:
 - Use two pointers (left and right) to traverse from both ends.
